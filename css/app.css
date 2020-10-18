@@ -18,5 +18,10 @@ p {
 }
 
 .container{
-    background-color: lightslategrey;
+    background-color: skyblue;
+    line-height: 250px;
 }
+
+a {
+    color: green;
+  }
